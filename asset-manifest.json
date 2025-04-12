@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/superset/static/css/main.79a249ab.css",
-    "main.js": "/superset/static/js/main.c0c390db.js",
+    "main.js": "/superset/static/js/main.06a6e7d4.js",
     "static/media/technology.jpg": "/superset/static/media/technology.468d1212266a405f1e14.jpg",
     "static/media/finance.jpg": "/superset/static/media/finance.ab9d7b5c055e9b4fbce1.jpg",
     "static/media/energy.jpg": "/superset/static/media/energy.db8562562dbf67653503.jpg",
@@ -36,10 +36,10 @@
     "static/media/slick.woff": "/superset/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/superset/index.html",
     "main.79a249ab.css.map": "/superset/static/css/main.79a249ab.css.map",
-    "main.c0c390db.js.map": "/superset/static/js/main.c0c390db.js.map"
+    "main.06a6e7d4.js.map": "/superset/static/js/main.06a6e7d4.js.map"
   },
   "entrypoints": [
     "static/css/main.79a249ab.css",
-    "static/js/main.c0c390db.js"
+    "static/js/main.06a6e7d4.js"
   ]
 }
